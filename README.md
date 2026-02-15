@@ -186,12 +186,11 @@ Upload sketch to ESP32.
 ## 📄 Project Structure
 
 ```
-/ESP32-Tank
- ├── esp32_tank.ino
+/KaRKiG-project
+ ├── KaRKiG-code.ino
  ├── README.md
  └── docs/
      ├── robot_photo_1.jpg
-     ├── robot_photo_2.jpg
-     ├── web_interface.jpg
-     └── web_mobile.jpg
+     └──  web_interface.jpg
+     
 ```
