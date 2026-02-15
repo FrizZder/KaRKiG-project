@@ -82,7 +82,7 @@ Despite being an older and less efficient driver, L298N fully meets the needs of
 
 * ESP32
 * L298N Motor Driver
-* 2 DC Motors (tank tracks)
+* 4 DC Motors (tank tracks)
 * Battery pack
 * Wires
 
